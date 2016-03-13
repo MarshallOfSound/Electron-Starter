@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb/base",
+  "globals": {
+    "Settings": true,
+    "Emitter": true,
+    "WindowManager": true,
+    "GPM": true,
+    "$": true
+  },
+  "env": {
+    "mocha": true
+  }
+}
